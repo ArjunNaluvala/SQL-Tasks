@@ -13,13 +13,21 @@ This repository contains SQL tasks completed to strengthen my database managemen
 ## Topics Covered
 
 * Database Creation
+
 * Table Creation
+
 * Data Insertion
+
 * Data Modification (UPDATE)
+
 * Data Deletion (DELETE)
+
 * Data Retrieval (SELECT)
+
 * Filtering Records (WHERE)
+
 * Sorting Data (ORDER BY)
+
 * Aggregate Functions
 
   * COUNT()
@@ -27,16 +35,27 @@ This repository contains SQL tasks completed to strengthen my database managemen
   * AVG()
   * MIN()
   * MAX()
+
 * GROUP BY & HAVING
+
 * Joins
 
   * INNER JOIN
   * LEFT JOIN
   * RIGHT JOIN
+  * FULL OUTER JOIN
+  * CROSS JOIN
+  * SELF JOIN
+
 * Subqueries
+
 * Views
+
 * Constraints
-* Primary & Foreign Keys
+
+* Primary Keys
+
+* Foreign Keys
 
 ## Learning Outcomes
 
@@ -47,8 +66,9 @@ Through these tasks, I gained hands-on experience in:
 * Working with multiple tables
 * Performing data analysis using SQL
 * Understanding database relationships
+* Applying different types of joins to combine and analyze data
 * Generating business insights from data
 
 ## Skills Demonstrated
 
-SQL | MySQL | Database Management | Data Analysis | Joins | Subqueries | Aggregate Functions | Data Retrieval | Relational Databases
+SQL | MySQL | Database Management | Data Analysis | INNER JOIN | LEFT JOIN | RIGHT JOIN | FULL OUTER JOIN | CROSS JOIN | SELF JOIN | Subqueries | Aggregate Functions | Data Retrieval | Relational Databases
